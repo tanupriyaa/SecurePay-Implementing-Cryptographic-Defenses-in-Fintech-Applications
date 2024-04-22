@@ -1,0 +1,6 @@
+Date,Time,Description,Type,Amount,Sender,Receiver
+2024-04-01,15:56:22,Hyderabad,Transfer,10000,adyaanant,Tanupriya
+2024-04-01,15:58:49,Top Up From IDBI,Top Up,50000000,IDBI,Tanupriya
+2024-04-15,15:30:24,Whatever was pending,Transfer,1000000,Tanupriya,adyaanant
+2024-04-15,15:46:20,Top Up From IDBI,Top Up,20000,IDBI,Tanupriya
+2024-04-15,15:46:59,Shit,Transfer,56000,Tanupriya,adyaanant
